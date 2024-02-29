@@ -52,8 +52,8 @@ headerTemplate.innerHTML = `
     <h1>MindBloom</h1>
     <nav>
       <ul>
-        <li><a href="index.html">Home</a></li>
-        <li><a href="policy.html">Policy</a></li>
+        <li><a href="/">Home</a></li>
+        <li><a href="policy">Policy</a></li>
       </ul>
     </nav>
   </header>
